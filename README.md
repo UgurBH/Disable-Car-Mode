@@ -1,0 +1,1 @@
+This application shows how to disable the car mode programmatically.
